@@ -1,12 +1,12 @@
 Fully functional Full-Stack Amazon Clone built with React.js
 Made this during the 5 day react challenge with Clever Programmer.
 
-Technologies:
-React
-Firebase
-Express
-Node.js
-Stripe API
+# Technologies:
+- React
+- Firebase
+- Express
+- Node.js
+- Stripe API
 
 ## Available Scripts
 
